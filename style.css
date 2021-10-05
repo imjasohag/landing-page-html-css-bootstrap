@@ -1,0 +1,39 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* nav_bar_section */
+#nav_section{
+  background-image: linear-gradient(to right,rgb(227, 34, 245), rgb(151, 11, 245));
+}
+
+.navbar-brand img{
+    height: 35px;
+}
+.nav-link{
+    color: white !important;
+    font-size: 16px;
+    font-weight: 500;
+}
+.nav-link:hover{
+    color: rgb(21, 18, 22) !important;
+}
+.nav-link:active{
+    color: rgb(198, 195, 199) !important;
+}
+
+/* hero section  */
+
+#hero_section{
+    background-image: linear-gradient(to right,rgb(227, 34, 245), rgb(151, 11, 245))
+}
+.hero-title h1{
+    color: white;
+    font-size: 50px;
+}
+.hero-title p{
+    color: white;
+    font-size: 16px;
+}
